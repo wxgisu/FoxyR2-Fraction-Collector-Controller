@@ -4,7 +4,7 @@ Sub RunMeFirst()
 ' This sub routine is used to setup the control sheet for running foxy R2 Fraction collector
 ' Creates a new sheet with controls to run Foxy
 ' This sheet is used to input fraction timing.
-
+    ' This was created using record macro feature and not the best code, but sets up the page pretty quick. 
 If Not SheetExists("FoxyCol") Then
     
     ThisWorkbook.Sheets.Add.Activate
