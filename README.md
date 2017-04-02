@@ -1,7 +1,7 @@
 This is a colaborative project between two graduate students in Dr. Mark Hargrove's lab in the Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology of Iowa State University. The goal of the project is to add automatic OD monitoring and sampling function to a New Brunswick BioFlo110 STR system, to reduce labor intensive steps in bioreactor experiments. 
 
 # Equipments
-! [Setup Figure] ()
+![](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Setup%20Figure.jpg "Setup Figure")
 1. 
 
 
