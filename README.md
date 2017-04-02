@@ -14,12 +14,13 @@ This is a colaborative project between two graduate students, Xiaoguang Wang and
 6. [Uniclife UL80 Submersible Water Pump](https://www.amazon.com/Uniclife-Submersible-Aquarium-Powerhead-Hydroponic/dp/B00ZW6OHHY/ref=sr_1_1?ie=UTF8&qid=1491107247&sr=8-1-spons&keywords=fish+pump&psc=1)
 7. Fisher Scientific ISOTEMP 1006S circulating water bath heater
 
+# Work Flow
 
 
 
 
+# Reprogram FoxyR2 Fraction Collector Controller
 
-# FoxyR2-Fraction-Collector-Controller
 This is VBA-excel code to control Foxy R2 fraction collector. Designed to take periodic sample of cell culture from a in-house fermentor
 
 How to Run:
