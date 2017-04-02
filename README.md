@@ -27,7 +27,7 @@ A [powerpoint file](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-Syste
 
 # Setup
 To start a bioreactor experiment, the below steps are followed:
-1. 
+ 1. 
 
 
 # Reprogram FoxyR2 Fraction Collector Controller
