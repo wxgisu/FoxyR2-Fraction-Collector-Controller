@@ -1,4 +1,4 @@
-This is a colaborative project between two graduate students, Xiaoguang Wang and Jagannathan Alagurajan in Dr. Mark Hargrove's lab in the Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology of Iowa State University. The goal of the project is to add automatic OD monitoring and sampling function to a New Brunswick BioFlo110 STR system, to reduce labor intensive steps in bioreactor experiments. 
+This is a colaborative project between two graduate students, Xiaoguang Wang and Jagannathan Alagurajan in Dr. Mark Hargrove's lab in the Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology of Iowa State University. The goal of the project is to add automatic OD monitoring and sampling function to a New Brunswick BioFlo110 STR system, to reduce labor intensive steps in bioreactor experiments. The automated system is only tested with *E.coli* cells.
 
 
 # Equipments
@@ -13,8 +13,15 @@ This is a colaborative project between two graduate students, Xiaoguang Wang and
 6. [Uniclife UL80 Submersible Water Pump](https://www.amazon.com/Uniclife-Submersible-Aquarium-Powerhead-Hydroponic/dp/B00ZW6OHHY/ref=sr_1_1?ie=UTF8&qid=1491107247&sr=8-1-spons&keywords=fish+pump&psc=1)
 7. Fisher Scientific ISOTEMP 1006S circulating water bath heater
 
-# Work Flow
+# Workflow
+![Workflow Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Workflow%20Figure.png)
 
+The strategy to add automated functions to the existing STR system is to setup a continuous circulation system out side of the reactor. As shown in the figure above, steps of workflow is as follow:
+1. Culture in reactor (2) is first circulated out through sample line on the head plate via a peristatic pump on BioFlo100 controller (1).
+2. Culture flow into the flowcell (4) sits in spectrometer (3).
+3. OD of flowcell (4) is monitored at 600 nm by Cary WinUV Kinetics program (1 min/read).
+4. Culture continue flowing to the fraction collector (5) that is in a refridgerator (4 oC)
+ ..4. 
 
 
 
