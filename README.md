@@ -3,7 +3,7 @@ This is a colaborative project between two graduate students, Xiaoguang Wang and
 
 # Equipments
 
-![Equipment Figure](Robotic-Stirred-Tank-Reactor-System/Equipment Figure.png)
+![Equipment Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Equipment%20Figure.png)
 
 1. New Brunswick BioFlo110 control system
 2. New Brunswick 5L STR glass reactor
