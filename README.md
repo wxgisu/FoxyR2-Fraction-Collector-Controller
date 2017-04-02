@@ -1,11 +1,11 @@
 This is a colaborative project between two graduate students, Xiaoguang Wang and Jagannathan Alagurajan in Dr. Mark Hargrove's lab in the Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology of Iowa State University. The goal of the project is to add automatic OD monitoring and sampling function to a New Brunswick BioFlo110 STR system, to reduce labor intensive steps in bioreactor experiments. 
 
 
-# Setup and Process Figure
+# Equipments
+**Setup Figure**
 
 ![Setup Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Setup%20Figure.png)
 
-# Equipments
 1. New Brunswick BioFlo110 control system
 2. New Brunswick 5L STR glass reactor
 3. Varian Cary 50 Spectrometer (controled by  Cary WinUV Software)
