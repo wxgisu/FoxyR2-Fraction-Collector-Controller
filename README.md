@@ -9,10 +9,11 @@ This is a colaborative project between two graduate students, Xiaoguang Wang and
 1. New Brunswick BioFlo110 control system
 2. New Brunswick 5L STR glass reactor
 3. Varian Cary 50 Spectrometer (controled by  Cary WinUV Software)
-4. Teledyen ISCO FoxyR2 Fraction Collector (reprogramed in house, code is forked from Jagannathan's GitHub site and included in this repository)
-5. [Uniclife UL80 Submersible Water Pump](https://www.amazon.com/Uniclife-Submersible-Aquarium-Powerhead-Hydroponic/dp/B00ZW6OHHY/ref=sr_1_1?ie=UTF8&qid=1491107247&sr=8-1-spons&keywords=fish+pump&psc=1)
-6. Fisher Scientific ISOTEMP 1006S circulating water bath heater
-7. 
+4. [Precision Cells 10mm Lightpath Flow Through Cell](http://www.precisioncells.com/products/Spectrophotometer-Cuvettes/Flow-Through-Cells/17/76/Precision-Cells-Type-58-Macro-Flow-Through-Cell-with-Top-Tubes-Lightpath-10mm)
+5. Teledyen ISCO FoxyR2 Fraction Collector (reprogramed in house, code is forked from Jagannathan's GitHub site and included in this repository)
+6. [Uniclife UL80 Submersible Water Pump](https://www.amazon.com/Uniclife-Submersible-Aquarium-Powerhead-Hydroponic/dp/B00ZW6OHHY/ref=sr_1_1?ie=UTF8&qid=1491107247&sr=8-1-spons&keywords=fish+pump&psc=1)
+7. Fisher Scientific ISOTEMP 1006S circulating water bath heater
+
 
 
 
