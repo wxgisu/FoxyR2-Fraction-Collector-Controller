@@ -3,7 +3,7 @@ This is a colaborative project between two graduate students, Xiaoguang Wang and
 
 # Setup and Process Figure
 
-![Setup Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Setup%20Figure.jpg "Setup Figure")
+![Setup Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Setup%20Figure.png)
 
 # Equipments
 1. New Brunswick BioFlo110 control system
