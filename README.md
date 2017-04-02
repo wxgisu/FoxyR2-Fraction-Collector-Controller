@@ -2,6 +2,7 @@ This is a colaborative project between two graduate students in Dr. Mark Hargrov
 
 # Equipments
 **Setup Figure**
+
 ![Setup Figure](https://github.com/wxgisu/Robotic-Stirred-Tank-Reactor-System/blob/master/Setup%20Figure.jpg "Setup Figure")
 
 1. 
